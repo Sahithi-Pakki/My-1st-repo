@@ -1,0 +1,21 @@
+DevOps:
+Introduction:
+DevOps = Development + Operations
+It is a culture + set of practices + tools that help
+Developers (write code)
+Operations (deploys it)
+Both work together.
+The developer writes the code to add "Track my order"
+Without DevOps: Developer gives codes to ops team 									.			
+DevOps Lifecycle (Step-by-Step):
+
+Plan → Decide features
+Develop → Write code
+Build → Compile code
+Test → Check for bugs
+Release → Prepare for deployment
+Deploy → Launch application
+Operate → Maintain system
+Monitor → Track performance
+
+This cycle repeats continuously 🔄
