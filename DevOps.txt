@@ -19,3 +19,4 @@ Operate → Maintain system
 Monitor → Track performance
 
 This cycle repeats continuously 🔄
+this is devops
